@@ -1,0 +1,22 @@
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/bin/Debug/net8.0/Quartz Scheduler
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/bin/Debug/net8.0/Quartz Scheduler.deps.json
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/bin/Debug/net8.0/Quartz Scheduler.runtimeconfig.json
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/bin/Debug/net8.0/Quartz Scheduler.dll
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/bin/Debug/net8.0/Quartz Scheduler.pdb
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/bin/Debug/net8.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/bin/Debug/net8.0/Microsoft.Extensions.Logging.Abstractions.dll
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/bin/Debug/net8.0/MySqlConnector.dll
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/bin/Debug/net8.0/Quartz.dll
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/obj/Debug/net8.0/Quartz Scheduler.csproj.AssemblyReference.cache
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/obj/Debug/net8.0/Quartz Scheduler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/obj/Debug/net8.0/Quartz Scheduler.AssemblyInfoInputs.cache
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/obj/Debug/net8.0/Quartz Scheduler.AssemblyInfo.cs
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/obj/Debug/net8.0/Quartz Scheduler.csproj.CoreCompileInputs.cache
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/obj/Debug/net8.0/Quartz S.982B925F.Up2Date
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/obj/Debug/net8.0/Quartz Scheduler.dll
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/obj/Debug/net8.0/refint/Quartz Scheduler.dll
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/obj/Debug/net8.0/Quartz Scheduler.pdb
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/obj/Debug/net8.0/Quartz Scheduler.genruntimeconfig.cache
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/obj/Debug/net8.0/ref/Quartz Scheduler.dll
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/bin/Debug/net8.0/Newtonsoft.Json.dll
+/Users/dariusstoffele/RiderProjects/Quartz Scheduler/Quartz Scheduler/bin/Debug/net8.0/Quartz.Serialization.Json.dll
